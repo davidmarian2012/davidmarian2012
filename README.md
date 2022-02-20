@@ -1,7 +1,7 @@
 Hi, I’m David 👋
 - I’m interested in anything related to Computers and Programming
-- C++, HTML, CSS/SCSS, JavaScript advanced skills 
-- SQL, Python, ASP.NET & Angular intermediate skills
+- C++, HTML, CSS, JavaScript advanced skills 
+- Python, SQL, ASP.NET & Angular intermediate skills
 - Reach me at davidmarian2012@gmail.com
 
 <!---
