@@ -1,8 +1,9 @@
-Hi, I’m David 👋
-- I’m interested in anything related to Computers and Programming
-- C++, HTML, CSS, JavaScript advanced skills 
-- Python, SQL, ASP.NET & Angular intermediate skills
-- Reach me at davidmarian2012@gmail.com
+Hi, I’m David 👋 I am passionate about programming and technology, especially Web Development 💻 
+
+- Good knowledge of C++, HTML, CSS, JavaScript & React.js  
+- Basic knowledge of Databases (SQL), Python and .NET 
+
+Reach me at davidmarian2012@gmail.com
 
 <!---
 davidmarian2012/davidmarian2012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
