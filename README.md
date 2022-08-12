@@ -1,8 +1,5 @@
 Hi, I’m David 👋 I am passionate about programming and technology, especially Web Development 💻 
 
-- Good knowledge of C++, HTML, CSS, JavaScript & React.js  
-- Basic knowledge of Databases (SQL), Python and .NET 
-
 Reach me at davidmarian2012@gmail.com
 
 <!---
