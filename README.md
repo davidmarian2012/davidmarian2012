@@ -1,4 +1,4 @@
-Hi, I’m David 👋 I am passionate about programming and technology, especially Web Development 💻 
+Hi, I’m David 👋 I am passionate about Web Development 💻 
 
 Reach me at davidmarian2012@gmail.com
 
