@@ -1,4 +1,5 @@
 Hi, I’m David! I am a Front-end Developer trying to contribute to impactful applications. 💻 
+
 Reach me at davidmarian2012@gmail.com
 
 <!---
